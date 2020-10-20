@@ -5,8 +5,8 @@ public class User {
 	private static String username;
 	private static String password;
 	
-	public User(String uname, String pass) {
-		username = uname;
+	public User(String email, String pass) {
+		username = email;
 		password = pass;
 	}
 	
